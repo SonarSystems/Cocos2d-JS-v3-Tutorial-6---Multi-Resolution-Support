@@ -65,7 +65,7 @@ cc.game.onStart = function(){
             }
             else
             {
-                cc.view.setDesignResolutionSize(1536, 1048, cc.ResolutionPolicy.SHOW_ALL);
+                cc.view.setDesignResolutionSize(1536, 2048, cc.ResolutionPolicy.SHOW_ALL);
             }
             
             searchPaths.push("res/largeRes");
