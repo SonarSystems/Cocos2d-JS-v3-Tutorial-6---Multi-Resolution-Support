@@ -75,7 +75,7 @@ cc.game.onStart = function(){
         {
             var size;
             
-            if (cc.view.getFrameSize().width >= 1136 || cc.view.getFrameSize.height >= 1136)
+            if (cc.view.getFrameSize().width >= 1136 || cc.view.getFrameSize().height >= 1136)
             {
                 size = 1136;
             }
